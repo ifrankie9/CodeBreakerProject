@@ -87,5 +87,4 @@ function getResults(input){
     return true;
   }
   return false;
-
 }
